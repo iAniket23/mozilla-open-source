@@ -1,7 +1,9 @@
 # mozilla-open-source   
 This repository consists of all the open source contribution I made to Mozilla open source hosted at Meculiar.
 
-Contributing to Mozilla projects
+Below is the information taken from the Mozilla website about contributing to mozilla projects  
+
+contributing to Mozilla projects
 ================================
 
 This page is here to help you get from "I want to build Firefox"
