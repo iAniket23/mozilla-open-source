@@ -3,8 +3,9 @@ Convert toolkit/crashreporter to ES modules
 [Bug 1820882](https://bugzilla.mozilla.org/show_bug.cgi?id=1820882)
 
 # Description
-ESmify the toolkit/crashreporter modules
-Mentor - standard8
+ESmify the toolkit/crashreporter modules.  
+Mentor - standard8.   
+[Patch D172545](https://phabricator.services.mozilla.com/D172545)
 
 # What are JSMs and ESMs?
 JSM is a Mozilla-specific module system used in the Firefox codebase.  It’s a plain JavaScript file with `.jsm` file extension, and `EXPORTED_SYMBOLS` global variable, that defines the list of exported symbols (global variables) that can be imported from other JS files, by `ChromeUtils.import` API.
